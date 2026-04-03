@@ -1,4 +1,4 @@
-# 💰 Finance Dashboard
+# Finance Dashboard
 
 A modern and interactive finance dashboard built using React.js.
 
